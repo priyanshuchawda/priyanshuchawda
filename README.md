@@ -19,6 +19,8 @@
     <li><a href="https://github.com/yourusername/integral-calculator">**Integral Calculator**</a> - Tool for calculating and visualizing integrals.</li>
     <li><a href="https://github.com/yourusername/math-calc">**Math Calculator**</a> - Basic mathematical calculator for quick calculations.</li>
     <li><a href="https://github.com/yourusername/socialmediadetoxhelper">**Social Media Detox Helper**</a> - Tool to reduce social media usage.</li>
+    <li><a href="https://github.com/priyanshuchawda/AI-CITY-SIMULATOR">**AI City Simulator**</a> - A simulation project for urban planning and management.</li>
+    
 </ul>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
