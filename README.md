@@ -20,7 +20,7 @@
     <li><a href="https://github.com/yourusername/math-calc">**Math Calculator**</a> - Basic mathematical calculator for quick calculations.</li>
     <li><a href="https://github.com/yourusername/socialmediadetoxhelper">**Social Media Detox Helper**</a> - Tool to reduce social media usage.</li>
     <li><a href="https://github.com/priyanshuchawda/AI-CITY-SIMULATOR">**AI City Simulator**</a> - A simulation project for urban planning and management.</li>
-    
+And way more projects
 </ul>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -31,7 +31,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-    <!-- Additional languages/tools as needed -->
+   
 </p>
 
 <h3 align="left">🚀 Current Focus:</h3>
