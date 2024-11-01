@@ -49,10 +49,6 @@
 <h3 align="left">🔭 Looking Ahead:</h3>
 <p align="left">I’m eager to expand my horizons through internships, hackathons, and collaborative projects, contributing meaningfully to the tech community and pushing the boundaries of my learning journey.</p>
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchawda&layout=compact&langs_count=8&theme=radical)
-
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
