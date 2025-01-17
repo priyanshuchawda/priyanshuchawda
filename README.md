@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Science student exploring technology, programming, and innovative solutions. I thrive on diving into challenging projects that expand my skillset and knowledge.</h3>
 
 - 🌐 Let's connect on **[LinkedIn](https://linkedin.com/in/priyanshuchawda)**
+- https://priyanshuchawda.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
