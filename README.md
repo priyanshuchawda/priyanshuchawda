@@ -1,45 +1,51 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Chawda</h1>
-<h3 align="center">A passionate Computer Science student exploring technology, programming, and innovative solutions. I thrive on diving into challenging projects that expand my skillset and knowledge.</h3>
+# 👋 Hey, I'm Priyanshu Chawda
 
-- 🌐 Let's connect on **[LinkedIn](https://linkedin.com/in/priyanshuchawda)**
-- 🌍 Check out my personal website: [priyanshutech.xyz](https://priyanshutech.xyz/)
+**AI & Full-Stack Developer** | 🚀 Building Smart Tools for Real-World Impact | ⚡ Open-Source Contributor | 🧠 CP Strategist | 💬 Tech Educator
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/priyanshuchawda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/priyanshuchawda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
-</p>
+---
 
-<h3 align="left">🌟 Projects:</h3>
-<p align="left">
-    Check out my projects on <a href="https://github.com/priyanshuchawda?tab=repositories" target="_blank">GitHub</a>!
-</p>
+### 🧭 About Me
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+I'm an AI-obsessed full-stack developer who loves turning crazy ideas into real, working products. Whether it's building agent-based tools with Gemini AI, crushing DSA problems, or helping automate workflows for teachers — I'm all about **code that creates value**.
 
-<h3 align="left">🚀 Current Focus:</h3>
-<p align="left">Currently, I'm enhancing my skills in competitive programming and web development. I'm working on projects that leverage my expertise across multiple programming languages and frameworks, aiming to build solutions with real-world impact.</p>
+🔭 Currently building: `Dobble` — a next-gen productivity tool powered by AI agents.  
+💬 Always up for: Chatting about DSA, AI, animations, system design, or how tech is reshaping education.
 
-<h3 align="left">🔭 Looking Ahead:</h3>
-<p align="left">I’m eager to expand my horizons through internships, hackathons, and collaborative projects, contributing meaningfully to the tech community and pushing the boundaries of my learning journey.</p>
+---
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-</a></div>
-</details>
+### 🛠️ Tech Stack
+
+- **Languages**: Python, C++, JavaScript, TypeScript
+- **Frameworks**: React.js, Node.js, Express, Streamlit, Flask
+- **AI/ML Tools**: Google Vertex AI, Gemini API, Pandas, Matplotlib
+- **Dev Tools**: Git, Postman, VS Code, GCP, MongoDB, Firebase
+- **Other Stuff**: Framer Motion (for spicy animations 🌶️), REST APIs, Competitive Programming
+
+---
+
+### 🌱 Currently Learning
+
+- Deep Dive into **System Design**
+- Advanced **AI Agent Workflows**
+- Exploring **LLMs + GCP Integration**
+
+---
+
+### 📢 Let's Collaborate!
+
+- 💡 Have an idea? I love building things that *don’t exist yet*.
+- 🎤 Organizing a hackathon or event? Happy to speak, mentor, or team up.
+- 🌍 Passionate about open-source? Let's team up and build something that matters.
+
+---
+
+### 📫 How to Reach Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/priyanshuchawda)
+- 🌐 [Portfolio](https://priyanshutech.xyz)
+
+---
+
+**“Write code that solves problems. Build tools that change lives.”**
+
+Let’s build the future together 🚀
