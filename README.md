@@ -6,20 +6,10 @@
 
 ### 🧭 About Me
 
-I'm an AI-obsessed full-stack developer who loves turning crazy ideas into real, working products. Whether it's building agent-based tools with Gemini AI, crushing DSA problems, or helping automate workflows for teachers — I'm all about **code that creates value**.
+I'm an AI-= full-stack developer who loves turning crazy ideas into real, working products. Whether it's building agent-based tools with AI, crushing DSA problems, or helping automate workflows for teachers — I'm all about **code that creates value**.
 
 🔭 Currently building: `Dobble` — a next-gen productivity tool powered by AI agents.  
 💬 Always up for: Chatting about DSA, AI, animations, system design, or how tech is reshaping education.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: Python, C++, JavaScript, TypeScript
-- **Frameworks**: React.js, Node.js, Express, Streamlit, Flask
-- **AI/ML Tools**: Google Vertex AI, Gemini API, Pandas, Matplotlib
-- **Dev Tools**: Git, Postman, VS Code, GCP, MongoDB, Firebase
-- **Other Stuff**: Framer Motion (for spicy animations 🌶️), REST APIs, Competitive Programming
 
 ---
 
