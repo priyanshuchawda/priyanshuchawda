@@ -1,41 +1,92 @@
 # 👋 Hey, I'm Priyanshu Chawda
 
-**AI & Full-Stack Developer** | 🚀 Building Smart Tools for Real-World Impact | ⚡ Open-Source Contributor | 🧠 CP Strategist | 💬 Tech Educator
+I build **intelligent software systems** — not just apps, but tools that *think*, *scale*, and *actually solve problems*.
+
+Currently focused on the **ML + Software Engineering (ML+SWE)** path, with deep interest in:
+- AI-powered products
+- Backend-heavy systems
+- Observability, infra & real-world engineering
+- Hackathons and open-source ecosystems
 
 ---
 
-### 🧭 About Me
+## 🚀 What I’m Actively Building
 
-I'm an AI-= full-stack developer who loves turning crazy ideas into real, working products. Whether it's building agent-based tools with AI, crushing DSA problems, or helping automate workflows for teachers — I'm all about **code that creates value**.
+- 🧠 **AI-first tools** (LLMs, automation, context-aware systems)
+- ⚙️ **Production-grade backends** (APIs, infra, monitoring)
+- 🌐 **High-performance web platforms** (Next.js, modern stacks)
+- 📊 **Telemetry & observability pipelines** (LLM metrics, cost, latency)
 
-🔭 Currently building: `Dobble` — a next-gen productivity tool powered by AI agents.  
-💬 Always up for: Chatting about DSA, AI, animations, system design, or how tech is reshaping education.
-
----
-
-### 🌱 Currently Learning
-
-- Deep Dive into **System Design**
-- Advanced **AI Agent Workflows**
-- Exploring **LLMs + GCP Integration**
+I like projects where **engineering depth > flashy UI**.
 
 ---
 
-### 📢 Let's Collaborate!
+## 🧩 Tech Stack (What I *actually* use)
 
-- 💡 Have an idea? I love building things that *don’t exist yet*.
-- 🎤 Organizing a hackathon or event? Happy to speak, mentor, or team up.
-- 🌍 Passionate about open-source? Let's team up and build something that matters.
+**Languages**
+- Python, TypeScript, JavaScript
+
+**Frontend**
+- Next.js (App Router)
+- React, Tailwind CSS
+
+**Backend & Systems**
+- Node.js, REST APIs
+- Docker
+- Cloud-native design
+
+**AI / ML**
+- LLM APIs & orchestration
+- Prompt engineering with structured context
+- AI observability & evaluation
+- Generative AI workflows
 
 ---
 
-### 📫 How to Reach Me
+## 🏗️ Projects & Experiments
 
-- 🔗 [LinkedIn](https://linkedin.com/in/priyanshuchawda)
-- 🌐 [Portfolio](https://priyanshutech.xyz)
+- 🔹 **Headless community platforms**
+- 🔹 **LLM observability dashboards**
+- 🔹 **City-aware AI tools (local context understanding)**
+- 🔹 **Hackathon prototypes shipped under time pressure**
+
+> I prefer fewer projects with **real depth** over dozens of shallow ones.
 
 ---
 
-**“Write code that solves problems. Build tools that change lives.”**
+## 🧠 How I Think About Engineering
 
-Let’s build the future together 🚀
+- Systems > Scripts  
+- Reliability > Demos  
+- Observability is not optional  
+- AI without evaluation is just guesswork  
+- Code should explain *why*, not just *what*
+
+---
+
+## 🏆 Hackathons & Competitive Work
+
+- Participated in **Google, Microsoft & global hackathons**
+- Strong focus on:
+  - Problem framing
+  - Fast iteration
+  - Clean architecture even under deadlines
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced system design
+- Scalable AI architectures
+- ML + SWE intersection
+- Cloud & infra best practices
+- Open-source collaboration at scale
+
+---
+
+## 🔗 Find Me Online
+
+- 🌐 Website: **https://priyanshutech.xyz**
+- 💼 LinkedIn: **linkedin.com/in/priyanshuchawda**
+- 💬 GitHub: **@priyanshuchawda**
+
