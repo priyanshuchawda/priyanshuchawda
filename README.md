@@ -81,8 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchawda&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyanshuchawda&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuchawda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuchawda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 <div align="center">
