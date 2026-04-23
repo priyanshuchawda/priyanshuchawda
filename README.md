@@ -9,7 +9,7 @@
     <b>Building AI-powered developer tools, agentic workflows, and scalable software — one project at a time.</b>
   </p>
 
-  <a href="https://https://priyanshuworks.tech/">
+  <a href="https://priyanshuworks.tech/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+AI+Agents...;Shipping+Fast...;Learning+Relentlessly..." alt="Typing SVG" />
   </a>
 </div>
@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <a href="https://https://priyanshuworks.tech/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://priyanshuworks.tech/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priyanshuchawda"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://github.com/priyanshuchawda"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0007-8909-0688"><img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
