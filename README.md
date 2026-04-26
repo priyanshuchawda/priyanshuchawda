@@ -95,5 +95,4 @@
   <a href="https://priyanshuworks.tech/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priyanshuchawda"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://github.com/priyanshuchawda"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://orcid.org/0009-0007-8909-0688"><img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
 </div>
