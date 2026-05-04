@@ -26,6 +26,9 @@
 ### 🚀 What I'm Building
 
 - 🧠 **Agentic Path MCP Server** — Currently focused on building intelligent agentic pathways.
+-  codeaudit 
+
+- 🔎 **[codeaudit](https://github.com/priyanshuchawda/codeaudit)** — Read-only MCP server for AI coding agents: repo inspection, skill routing, code audits, docs evidence checks, and issue/PR planning.
 - 🎴 **[youtube-flashcards](https://github.com/priyanshuchawda/youtube-flashcards)** — Transform any YouTube video into interactive study flashcards instantly using AI.
 - 🔎 **[ghfind](https://github.com/priyanshuchawda/ghfind)** — AI tool that discovers relevant GitHub issues/PRs instantly from the CLI.
 - 🎵 **[spotify-yt-sync](https://github.com/priyanshuchawda/spotify-yt-sync)** — Sync Spotify liked songs into a YouTube playlist with stateful sync and OAuth.
