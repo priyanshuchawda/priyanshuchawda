@@ -66,8 +66,7 @@
 ### ⚡ Quick Stats
 
 🚀 **20+** Projects Built  
-🏆 **Hackathon** Participant  
-📚 **250+** LeetCode Problems  
+🏆 **Hackathon** Participant   
 🌍 **Open Source** Contributor  
 
 </td>
