@@ -25,14 +25,13 @@
 
 ### 🚀 What I'm Building
 
-- 🧠 **Agentic Path MCP Server** — Currently focused on building intelligent agentic pathways.
-- phoenix
-- 🔎 **[codeaudit](https://github.com/priyanshuchawda/codeaudit)** — Read-only MCP server for AI coding agents: repo inspection, skill routing, code audits, docs evidence checks, and issue/PR planning.
-- 🎴 **[youtube-flashcards](https://github.com/priyanshuchawda/youtube-flashcards)** — Transform any YouTube video into interactive study flashcards instantly using AI.
-- 🔎 **[ghfind](https://github.com/priyanshuchawda/ghfind)** — AI tool that discovers relevant GitHub issues/PRs instantly from the CLI.
-- 🎵 **[spotify-yt-sync](https://github.com/priyanshuchawda/spotify-yt-sync)** — Sync Spotify liked songs into a YouTube playlist with stateful sync and OAuth.
-- 📜 **[git-workflow-historian](https://github.com/priyanshuchawda/git-workflow-historian)** — A powerful Python tool to track, analyze, and document your Git workflows over time.
-- 🎥 **[screen-recorder](https://github.com/priyanshuchawda/screen-recorder)** — Lightweight Windows recorder built in C++20 with no lag.
+- 🌐 **[Portfolio](https://priyanshuworks.tech)** — My home base for AI engineering, agentic systems, and developer tools.
+- 🔎 **[codeaudit](https://github.com/priyanshuchawda/codeaudit)** — Read-only MCP server for repository inspection, code audits, documentation evidence, and issue/PR planning.
+- 🧭 **[AgentOps Flight Deck](https://github.com/priyanshuchawda/agentops-flight-deck-submission)** — Operational interface for AI-agent traces, evidence, risk gates, repair, and human approval.
+- ⚖️ **[H2S Legal First Aid](https://github.com/priyanshuchawda/h2s-legal-first-aid)** — Safety-first legal information and preparation support for Indian employees and freelancers.
+- 📚 **[ProofPilot AI](https://github.com/priyanshuchawda/proofpilot-ai)** — Evidence-first GenAI copilot with secure ingestion, retrieval, citations, and evaluation.
+- 🛰️ **[Aditya-L1 CME Detection](https://github.com/priyanshuchawda/aditya-L1)** — Solar-wind analysis tooling for coronal mass-ejection detection.
+- 🎥 **[QuickCut](https://github.com/priyanshuchawda/vid)** — AI-powered Electron desktop video editor for fast edits and professional exports.
 
 ---
 
